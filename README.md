@@ -1,4 +1,4 @@
-# gamemakerdebugger
+# Beagle North Games simple on screen debugger
 All purpose simple visual debugging for any one to add to their game maker project
 -Created by Beagle North Games-
 Free to use, edit, alter, steal, without credit. 
