@@ -15,7 +15,7 @@ After importing this to your project, (or simply copy and paste the script in, s
 A message will now appear in the top left of your screen, and fade out after about a second. The power in this script comes from the optional parameters you can pass into addDebugMessageToDebugScreen.
 Let's take a look at the function
 
-
+```
 global.DEBUG_MESSAGES = {
 	topleft: [],
 	topright: [],
@@ -28,7 +28,7 @@ global.DEBUG_LOCATIONS = [
 	"bottomleft",
 	"bottomright"
 ];
-```
+
 /*
     creates a struct given the string, value, and time on screen of the debug message, adds it to the global array of debug messages.
 
